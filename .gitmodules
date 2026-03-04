@@ -1,0 +1,6 @@
+[submodule "toolsUneedBack"]
+	path = toolsUneedBack
+	url = https://github.com/JOJOK63/toolsUneed_backend.git
+[submodule "toolsUneedFront"]
+	path = toolsUneedFront
+	url = https://github.com/JOJOK63/toolsUneed_frontend.git
